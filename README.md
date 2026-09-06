@@ -2,144 +2,118 @@
 
 Welcome! This portfolio documents my hands-on development in **Identity & Access Management (IAM)**, building on my professional experience in Salesforce administration and enterprise application access management.
 
-My goal is to apply my experience with user administration, access controls, permissions, and security to an IAM-focused role.
+My goal is to apply my experience with **user administration, access controls, permissions, security, and enterprise applications** to an IAM-focused role.
 
-## IAM Skills & Technologies
+## IAM Skills
 
+- Identity & Access Management (IAM)
 - Microsoft Entra ID
 - Okta
-- Identity & Access Management (IAM)
-- Identity Governance & Administration (IGA)
+- User & Group Administration
 - Role-Based Access Control (RBAC)
 - Least Privilege
 - Multi-Factor Authentication (MFA)
 - Conditional Access
-- Joiner-Mover-Leaver (JML) Lifecycle Management
-- User Provisioning & Deprovisioning
 - Application Access Management
-- Access Reviews
-- Access Certification
+- Identity Governance & Administration (IGA)
+- Access Reviews & Certification
+- Joiner-Mover-Leaver (JML)
+- User Provisioning & Deprovisioning
+- Privileged Access Management (PAM) Fundamentals
 - System Log & Audit Review
-- Privileged Access Management (PAM) Concepts
-- Separation of Duties (SoD)
+- Access Remediation
 
 ## Portfolio Projects
 
 ### Project 1 — Microsoft Entra ID IAM Lab
 
-**Microsoft Entra ID — IAM Lifecycle & Access Control**
+Hands-on simulated enterprise IAM environment demonstrating:
 
-A simulated enterprise IAM environment demonstrating identity administration and access controls.
+- User and group administration
+- Group-based access
+- RBAC and least privilege
+- Conditional Access
+- MFA
+- Joiner-Mover-Leaver lifecycle management
+- User deprovisioning
+- Sign-in log analysis
 
-**Key activities:**
-- Created and managed users and groups
-- Implemented group-based access
-- Configured RBAC
-- Applied least-privilege principles
-- Configured Conditional Access and MFA
-- Simulated Joiner-Mover-Leaver lifecycle events
-- Disabled departing-user accounts
-- Reviewed sign-in activity and access controls
-
-**Technologies:** Microsoft Entra ID
-
----
+[View Project 1](./Project-1-Entra-IAM-Lab)
 
 ### Project 2 — Access Review & JML Governance
 
-**Acme Corporation — Access Review & Identity Lifecycle Governance**
+Simulated quarterly access review and identity governance process demonstrating:
 
-A simulated quarterly access review and Joiner-Mover-Leaver governance exercise.
+- Access certification
+- Least privilege
+- Excessive and outdated access identification
+- Access remediation
+- Business justification validation
+- Contractor access review
+- Joiner-Mover-Leaver governance
+- Approval and audit evidence
 
-**Key activities:**
-- Reviewed access for 10 simulated users
-- Evaluated business justification for access
-- Identified excessive and outdated permissions
-- Identified contractor access risks
-- Evaluated organizational data-quality issues
-- Applied least-privilege principles
-- Documented remediation recommendations
-- Designed Joiner-Mover-Leaver workflows
-- Created an identity lifecycle process diagram
-
-**Technologies:** Microsoft Entra ID concepts, Google Sheets, Google Docs, Google Slides
-
----
+[View Project 2](./Project-2-Access-Review-JML)
 
 ### Project 3 — Okta IAM Lab
 
-**Okta — Identity & Application Access Lab**
+Hands-on simulated Okta environment demonstrating:
 
-A simulated enterprise IAM environment demonstrating identity lifecycle management and application access administration.
+- User administration
+- Group-based application access
+- Zendesk application assignment
+- MFA and authentication policy review
+- System Log analysis
+- Mover lifecycle management
+- User deactivation
+- Session management
+- Access remediation
 
-**Key activities:**
-- Created and activated a test user
-- Created and managed department-based groups
-- Assigned application access through group membership
-- Reviewed MFA and authentication policies
-- Investigated Okta System Log events
-- Simulated a user role and department change
-- Removed obsolete Finance access
-- Provisioned new IT access
-- Deactivated a departing user
-- Cleared active user sessions
-- Validated identity lifecycle events through audit logs
-
-**Technologies:** Okta
-
----
-
-## IAM Concepts Demonstrated
-
-This portfolio demonstrates practical understanding of:
-
-**Identity Lifecycle Management**
-- Joiner
-- Mover
-- Leaver
-
-**Access Management**
-- RBAC
-- Least Privilege
-- Group-Based Access
-- Application Assignment
-- Access Reviews
-
-**Authentication & Security**
-- MFA
-- Conditional Access
-- Authentication Policies
-- Session Management
-
-**Governance & Auditing**
-- Access Certification
-- Separation of Duties
-- System Log Analysis
-- Audit Evidence
-- Access Remediation
+[View Project 3](./Project-3-Okta-IAM-Lab)
 
 ## Professional Background
 
-My IAM development builds on professional experience as a **Cloud Systems Analyst and Salesforce Administrator**, where I have worked with:
+My IAM development builds on professional experience administering Salesforce and enterprise application access.
 
-- User administration
-- User deactivation
+My experience includes managing:
+
+- Users and user deactivation
 - Licenses
 - Profiles
 - Roles
-- Permission Sets
-- Public Groups
-- Access management
-- Data governance
-- Application administration
+- Permission sets
+- Public groups
+- Application access
+- Data quality and governance
+- Enterprise application configuration
 - Troubleshooting and support
 
-I am expanding this experience into enterprise IAM technologies including **Microsoft Entra ID and Okta**.
+This portfolio demonstrates my transition from **Salesforce Administration → Identity & Access Management → Cybersecurity**.
 
-## Current Career Focus
+## Training & Development
 
-I am currently developing my skills toward an **IAM Analyst / Identity Analyst / Access Management** career path, with continued study in identity security, cloud security, and cybersecurity.
+Currently expanding my IAM and cybersecurity knowledge through:
+
+- Identity & Access Management training
+- Microsoft Entra ID hands-on labs
+- Okta hands-on labs
+- Identity Governance & Administration
+- Privileged Access Management fundamentals
+- CompTIA Security+ preparation
+- Microsoft identity and access management training
+
+## Career Focus
+
+Seeking opportunities in:
+
+- IAM Analyst
+- Identity Analyst
+- Identity & Access Management Analyst
+- Identity Governance Analyst
+- Access Management Analyst
+- IAM Administrator
+- Junior IAM / Identity roles
 
 ---
 
-*All portfolio environments and scenarios are simulated for educational and demonstration purposes.*
+**All projects use simulated users, systems, and organizational data for educational and portfolio purposes.**
